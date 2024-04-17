@@ -1,0 +1,9 @@
+PROGRAMOWANIE DYNAMICZNE
+
+1) Wymyślenie funkcji rekurencyjnej, dla danego problemu.
+
+2) Wymyślenie najprostszego rekurencyjnego rozwiązania.
+
+3) Dojście do tego co w tym rozwiązaniu jest wykonywane nadmiarowo lub ogólnie jak można przyspieszyć algorytm.
+
+4) Derekurencyzacja lub wprowadzenie memoryzacji do pierwotnego rozwiązania.
