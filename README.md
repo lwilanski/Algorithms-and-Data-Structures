@@ -16,5 +16,5 @@ The repository also includes homework assignments, tests, and final exam.
 
 ## Syllabus Link
 
-[Course Syllabus]([link-to-the-syllabus](https://sylabusy.agh.edu.pl/pl/document/134813b4-37a9-412d-83ba-81731f49ad5c.pdf)) (In polish)
+[Course Syllabus]([https://sylabusy.agh.edu.pl/pl/document/134813b4-37a9-412d-83ba-81731f49ad5c.pdf]) (In polish)
 
