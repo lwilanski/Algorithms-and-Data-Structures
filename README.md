@@ -2,7 +2,7 @@
 
 ## Course Description
 
-This repository contains materials and projects from the "Algorithms and Data Structures" course conducted in Python at AGH University of Science and Technology. The course was divided into three main sections:
+This repository contains all the materials from the "Algorithms and Data Structures" course conducted in Python at AGH University of Science and Technology. The course was divided into three main sections:
 
 - **Sorting Algorithms** - various methods for sorting data.
 - **Graph Algorithms** - algorithms for searching and analyzing graphs.
